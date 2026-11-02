@@ -20,7 +20,7 @@ Không có ảnh/video nào lấy từ trang stock hay app khác.
 index.json      danh sách bộ sưu tập + hình nền
 photos/         ảnh JPEG q88 (~940×1670)
 videos/         video live H.264, 720×1280, 24fps, 8s, không tiếng
-thumbs/         ảnh xem trước JPEG q78, cạnh dài 480px
+thumbs/         ảnh xem trước JPEG q72, 450×800 (đủ nét cho ô lưới trên máy 1080p)
 ```
 
 `index.json`:
