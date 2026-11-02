@@ -1,6 +1,6 @@
 # wallpaper-assets
 
-Bộ hình nền của app `com.nnastudio.wallpaper` — **164 ảnh + 38 video live, 15 bộ sưu tập theo chủ đề**.
+Bộ hình nền của app `com.nnastudio.wallpaper` — **164 ảnh + 19 video live, 15 bộ sưu tập theo chủ đề**.
 
 ## Nguồn & bản quyền
 
@@ -10,8 +10,8 @@ Toàn bộ nội dung là **tác phẩm nguyên bản tạo mới** cho app này
   vật, thương hiệu hay tác phẩm có sẵn, không chèn chữ/logo. Theo điều khoản của OpenAI, quyền với
   nội dung đầu ra thuộc về người tạo.
 - Video live: cinemagraph dựng bằng code từ chính các ảnh trên — chỉ phần "sống" chuyển động
-  (mặt nước gợn, mây/sương trôi, đèn và ánh phản chiếu lấp lánh; một số có mưa, tuyết, cánh hoa,
-  đom đóm), phần còn lại đứng yên. Lặp liền mạch 6 giây.
+  (chủ yếu mặt nước gợn sóng, kèm mây/sương trôi và ánh phản chiếu lấp lánh), phần còn lại đứng yên.
+  Chỉ giữ những cảnh có chuyển động rõ; cảnh khác để ở dạng ảnh tĩnh. Lặp liền mạch 6 giây.
 
 Không có ảnh/video nào lấy từ trang stock hay app khác.
 
@@ -28,7 +28,7 @@ thumbs/         ảnh xem trước JPEG q72, 450×800 (đủ nét cho ô lưới
 
 ```json
 {
-  "version": 4,
+  "version": 5,
   "collections": [{ "id": "twilight_city", "title": "Twilight City", "subtitle": "Lo-fi anime skylines at dusk" }],
   "photos": [{ "id": 1, "name": "twilight_city_01", "type": "Photo", "file": "photos/twilight_city_01.jpg",
                "thumb": "thumbs/twilight_city_01.jpg", "size": 512345, "premium": false, "collection": "twilight_city" }],

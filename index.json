@@ -1,5 +1,5 @@
 {
- "version": 4,
+ "version": 5,
  "collections": [
   {
    "id": "twilight_city",
@@ -1721,26 +1721,6 @@
  ],
  "videos": [
   {
-   "id": 1,
-   "name": "twilight_city_01_live",
-   "type": "Video",
-   "file": "videos/twilight_city_01_live.mp4",
-   "thumb": "thumbs/twilight_city_01_live.jpg",
-   "size": 1034615,
-   "premium": false,
-   "collection": "twilight_city"
-  },
-  {
-   "id": 33,
-   "name": "twilight_city_04_live",
-   "type": "Video",
-   "file": "videos/twilight_city_04_live.mp4",
-   "thumb": "thumbs/twilight_city_04_live.jpg",
-   "size": 1346436,
-   "premium": false,
-   "collection": "twilight_city"
-  },
-  {
    "id": 34,
    "name": "twilight_city_05_live",
    "type": "Video",
@@ -1761,46 +1741,6 @@
    "collection": "twilight_city"
   },
   {
-   "id": 2,
-   "name": "twilight_city_08_live",
-   "type": "Video",
-   "file": "videos/twilight_city_08_live.mp4",
-   "thumb": "thumbs/twilight_city_08_live.jpg",
-   "size": 1644766,
-   "premium": false,
-   "collection": "twilight_city"
-  },
-  {
-   "id": 17,
-   "name": "twilight_city_12_live",
-   "type": "Video",
-   "file": "videos/twilight_city_12_live.mp4",
-   "thumb": "thumbs/twilight_city_12_live.jpg",
-   "size": 2155078,
-   "premium": false,
-   "collection": "twilight_city"
-  },
-  {
-   "id": 18,
-   "name": "four_seasons_01_live",
-   "type": "Video",
-   "file": "videos/four_seasons_01_live.mp4",
-   "thumb": "thumbs/four_seasons_01_live.jpg",
-   "size": 1074805,
-   "premium": false,
-   "collection": "four_seasons"
-  },
-  {
-   "id": 19,
-   "name": "four_seasons_04_live",
-   "type": "Video",
-   "file": "videos/four_seasons_04_live.mp4",
-   "thumb": "thumbs/four_seasons_04_live.jpg",
-   "size": 1452259,
-   "premium": false,
-   "collection": "four_seasons"
-  },
-  {
    "id": 36,
    "name": "four_seasons_05_live",
    "type": "Video",
@@ -1811,72 +1751,12 @@
    "collection": "four_seasons"
   },
   {
-   "id": 20,
-   "name": "four_seasons_08_live",
-   "type": "Video",
-   "file": "videos/four_seasons_08_live.mp4",
-   "thumb": "thumbs/four_seasons_08_live.jpg",
-   "size": 1559202,
-   "premium": false,
-   "collection": "four_seasons"
-  },
-  {
-   "id": 21,
-   "name": "four_seasons_10_live",
-   "type": "Video",
-   "file": "videos/four_seasons_10_live.mp4",
-   "thumb": "thumbs/four_seasons_10_live.jpg",
-   "size": 1274785,
-   "premium": false,
-   "collection": "four_seasons"
-  },
-  {
-   "id": 37,
-   "name": "four_seasons_11_live",
-   "type": "Video",
-   "file": "videos/four_seasons_11_live.mp4",
-   "thumb": "thumbs/four_seasons_11_live.jpg",
-   "size": 2048212,
-   "premium": false,
-   "collection": "four_seasons"
-  },
-  {
-   "id": 38,
-   "name": "four_seasons_12_live",
-   "type": "Video",
-   "file": "videos/four_seasons_12_live.mp4",
-   "thumb": "thumbs/four_seasons_12_live.jpg",
-   "size": 1323524,
-   "premium": false,
-   "collection": "four_seasons"
-  },
-  {
    "id": 5,
    "name": "neon_rain_01_live",
    "type": "Video",
    "file": "videos/neon_rain_01_live.mp4",
    "thumb": "thumbs/neon_rain_01_live.jpg",
    "size": 2506021,
-   "premium": false,
-   "collection": "neon_rain"
-  },
-  {
-   "id": 6,
-   "name": "neon_rain_02_live",
-   "type": "Video",
-   "file": "videos/neon_rain_02_live.mp4",
-   "thumb": "thumbs/neon_rain_02_live.jpg",
-   "size": 2189307,
-   "premium": false,
-   "collection": "neon_rain"
-  },
-  {
-   "id": 39,
-   "name": "neon_rain_04_live",
-   "type": "Video",
-   "file": "videos/neon_rain_04_live.mp4",
-   "thumb": "thumbs/neon_rain_04_live.jpg",
-   "size": 1255740,
    "premium": false,
    "collection": "neon_rain"
   },
@@ -1921,32 +1801,12 @@
    "collection": "fantasy_realms"
   },
   {
-   "id": 44,
-   "name": "fantasy_realms_07_live",
-   "type": "Video",
-   "file": "videos/fantasy_realms_07_live.mp4",
-   "thumb": "thumbs/fantasy_realms_07_live.jpg",
-   "size": 904751,
-   "premium": false,
-   "collection": "fantasy_realms"
-  },
-  {
    "id": 45,
    "name": "fantasy_realms_09_live",
    "type": "Video",
    "file": "videos/fantasy_realms_09_live.mp4",
    "thumb": "thumbs/fantasy_realms_09_live.jpg",
    "size": 2284041,
-   "premium": false,
-   "collection": "fantasy_realms"
-  },
-  {
-   "id": 46,
-   "name": "fantasy_realms_12_live",
-   "type": "Video",
-   "file": "videos/fantasy_realms_12_live.mp4",
-   "thumb": "thumbs/fantasy_realms_12_live.jpg",
-   "size": 1834547,
    "premium": false,
    "collection": "fantasy_realms"
   },
@@ -1971,16 +1831,6 @@
    "collection": "spirit_woods"
   },
   {
-   "id": 4,
-   "name": "spirit_woods_07_live",
-   "type": "Video",
-   "file": "videos/spirit_woods_07_live.mp4",
-   "thumb": "thumbs/spirit_woods_07_live.jpg",
-   "size": 1538717,
-   "premium": false,
-   "collection": "spirit_woods"
-  },
-  {
    "id": 49,
    "name": "spirit_woods_08_live",
    "type": "Video",
@@ -2001,32 +1851,12 @@
    "collection": "retro_wave"
   },
   {
-   "id": 10,
-   "name": "amoled_minimal_04_live",
-   "type": "Video",
-   "file": "videos/amoled_minimal_04_live.mp4",
-   "thumb": "thumbs/amoled_minimal_04_live.jpg",
-   "size": 517164,
-   "premium": false,
-   "collection": "amoled_minimal"
-  },
-  {
    "id": 50,
    "name": "wild_peaks_01_live",
    "type": "Video",
    "file": "videos/wild_peaks_01_live.mp4",
    "thumb": "thumbs/wild_peaks_01_live.jpg",
    "size": 2014676,
-   "premium": false,
-   "collection": "wild_peaks"
-  },
-  {
-   "id": 51,
-   "name": "wild_peaks_07_live",
-   "type": "Video",
-   "file": "videos/wild_peaks_07_live.mp4",
-   "thumb": "thumbs/wild_peaks_07_live.jpg",
-   "size": 1587951,
    "premium": false,
    "collection": "wild_peaks"
   },
@@ -2041,32 +1871,12 @@
    "collection": "wild_peaks"
   },
   {
-   "id": 53,
-   "name": "wild_peaks_10_live",
-   "type": "Video",
-   "file": "videos/wild_peaks_10_live.mp4",
-   "thumb": "thumbs/wild_peaks_10_live.jpg",
-   "size": 690765,
-   "premium": false,
-   "collection": "wild_peaks"
-  },
-  {
    "id": 54,
    "name": "ocean_calm_01_live",
    "type": "Video",
    "file": "videos/ocean_calm_01_live.mp4",
    "thumb": "thumbs/ocean_calm_01_live.jpg",
    "size": 1663623,
-   "premium": false,
-   "collection": "ocean_calm"
-  },
-  {
-   "id": 55,
-   "name": "ocean_calm_02_live",
-   "type": "Video",
-   "file": "videos/ocean_calm_02_live.mp4",
-   "thumb": "thumbs/ocean_calm_02_live.jpg",
-   "size": 1628666,
    "premium": false,
    "collection": "ocean_calm"
   },
