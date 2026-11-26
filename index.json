@@ -1,15 +1,15 @@
 {
- "version": 7,
+ "version": 8,
  "collections": [
   {
    "id": "nature",
    "title": "Wild Earth",
-   "subtitle": "Real landscapes from around the world"
+   "subtitle": "AI-made landscapes, mountain to shore"
   },
   {
    "id": "anime",
    "title": "Anime Skies",
-   "subtitle": "Hand-painted anime scenery"
+   "subtitle": "Anime-style skies and scenery"
   },
   {
    "id": "neon",
@@ -19,7 +19,7 @@
   {
    "id": "amoled",
    "title": "AMOLED Black",
-   "subtitle": "True-black wallpapers that save battery"
+   "subtitle": "True black, made for AMOLED screens"
   },
   {
    "id": "fluid",
@@ -29,7 +29,7 @@
   {
    "id": "watercolor",
    "title": "Watercolor",
-   "subtitle": "Soft paintings on textured paper"
+   "subtitle": "Watercolour-style washes on paper texture"
   },
   {
    "id": "synthwave",
@@ -44,7 +44,7 @@
   {
    "id": "macro",
    "title": "Macro World",
-   "subtitle": "Nature up close"
+   "subtitle": "Macro-style close-ups of nature"
   }
  ],
  "photos": [
